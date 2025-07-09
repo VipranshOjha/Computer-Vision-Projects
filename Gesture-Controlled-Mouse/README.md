@@ -1,6 +1,3 @@
-
----
-
 # Gesture Control with OpenCV and MediaPipe
 
 This project demonstrates real-time gesture control using OpenCV and MediaPipe libraries in Python. By leveraging the webcam feed, it allows users to interact with their computer screen through gestures, enabling actions like left-click, right-click, and double-click, as well as text selection and dragging.
