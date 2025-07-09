@@ -14,8 +14,6 @@ Control your computer using hand gestures captured via webcam.
 - Left/right clicks with thumb-index or thumb-pinky gestures
 - Double-click and drag using custom pinch-based logic
 
-> 🔗 [View README](./Gesture-Controlled-Mouse/README.md)
-
 ---
 
 ### 2. 👁️ [Gaze-Controlled Mouse](./Gaze-Controlled-Mouse)
@@ -26,8 +24,6 @@ A hands-free system using **eye movement and blinking** to control the mouse.
 - Blinks mapped to clicks
 - Real-time performance using `OpenCV` and `dlib`
 
-> 🔗 [View README](./Gaze-Controlled-Mouse/README.md)
-
 ---
 
 ### 3. 🧠 [Multi-Modal Mouse](./Multi-Modal-Mouse)
@@ -37,8 +33,6 @@ An advanced hybrid system combining both eye tracking and hand gestures.
 - Gaze-based cursor movement
 - Gesture-based click and scroll controls
 - Seamless switching between input modes
-
-> 🔗 [View README](./Multi-Modal-Mouse/README.md)
 
 ---
 
