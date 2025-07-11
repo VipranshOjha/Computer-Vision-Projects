@@ -36,6 +36,17 @@ An advanced hybrid system combining both eye tracking and hand gestures.
 
 ---
 
+### 4. ✍️ [Air-Writing Recognizer](./AirWritingRecognizer)
+Draw letters in the air using your index finger and have them recognized in real time.
+
+**Key Features:**
+- Real-time hand tracking using MediaPipe
+- Write by touching index finger to thumb, and stop with middle finger
+- Matches finger trajectory to letter templates (A–Z)
+- Displays live recognized text without requiring a neural network
+
+---
+
 ## 🧰 Setup & Installation
 
 Each project contains its own `README.md` with installation instructions and usage examples. All scripts are written in **Python 3.x** and require libraries like:
@@ -63,6 +74,7 @@ Computer-Vision-Projects/
 ├── Gesture-Controlled-Mouse/
 ├── Gaze-Controlled-Mouse/
 ├── Multi-Modal-Mouse/
+├── AirWritingRecognizer/
 └── README.md  ← You're here!
 ```
 
