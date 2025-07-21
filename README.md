@@ -36,7 +36,7 @@ An advanced hybrid system combining both eye tracking and hand gestures.
 
 ---
 
-### 4. ✍️ [Air-Writing Recognizer](./AirWritingRecognizer)
+### 4. ✍️ [Air-Writing Recognizer](https://github.com/VipranshOjha/Computer-Vision-Projects/tree/main/Air-Writing-Recognizer)
 Draw letters in the air using your index finger and have them recognized in real time.
 
 **Key Features:**
