@@ -47,13 +47,24 @@ Draw letters in the air using your index finger and have them recognized in real
 
 ---
 
+### 5. 🔒 [Auto Screen Lock](https://github.com/VipranshOjha/Daily-Problem-Solvers/tree/main/Auto-Screen-Lock)
+Automatically locks your screen when you leave your desk! Uses your webcam to detect if you're present and locks the computer after a set timeout if you're not—protecting your files and privacy effortlessly.
+
+**Key Features:**
+- Face detection via webcam (OpenCV)
+- Customizable timeout before locking
+- Lightweight, runs quietly in the background
+- Cross-platform: supports Windows, Mac, and Linux
+
+---
+
 ## 🧰 Setup & Installation
 
 Each project contains its own `README.md` with installation instructions and usage examples. All scripts are written in **Python 3.x** and require libraries like:
 
 ```bash
 pip install opencv-python mediapipe pyautogui dlib
-````
+```
 
 > Some systems may require `cmake` or additional packages to build `dlib`.
 
@@ -64,6 +75,7 @@ pip install opencv-python mediapipe pyautogui dlib
 * Accessibility tools for people with limited mobility
 * Touchless interfaces for medical/cleanroom environments
 * Smart desktops, HCI experiments, and educational demos
+* Adding automatic screen lock for enhanced privacy and security
 
 ---
 
@@ -75,18 +87,16 @@ Computer-Vision-Projects/
 ├── Gaze-Controlled-Mouse/
 ├── Multi-Modal-Mouse/
 ├── AirWritingRecognizer/
+├── Auto-Screen-Lock/
 └── README.md  ← You're here!
 ```
-
 ---
 
 ## 🙌 Contributions
 
-Pull requests and feedback are welcome.
+Pull requests and feedback are welcome.  
 Feel free to explore, improve, or build upon any of these modules.
 
 ---
 
 🚀 Empowering interaction through vision — touchless, intuitive, and human-centered.
-
-
