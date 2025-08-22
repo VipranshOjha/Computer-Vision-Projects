@@ -51,7 +51,7 @@ Draw letters in the air using your index finger and have them recognized in real
 Automatically locks your screen when you leave your desk! Uses your webcam to detect if you're present and locks the computer after a set timeout if you're not—protecting your files and privacy effortlessly.
 
 **Key Features:**
-- Face detection via webcam (OpenCV)
+- Face recognition via webcam (OpenCV)
 - Customizable timeout before locking
 - Lightweight, runs quietly in the background
 - Cross-platform: supports Windows, Mac, and Linux
@@ -100,3 +100,4 @@ Feel free to explore, improve, or build upon any of these modules.
 ---
 
 🚀 Empowering interaction through vision — touchless, intuitive, and human-centered.
+
